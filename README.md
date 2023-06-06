@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @omarmahmoud00
+- 👋 Hi, I’m omar mahmoud 
 - 👀 I’m interested in back end
 - 🌱 I’m currently learning laravel
