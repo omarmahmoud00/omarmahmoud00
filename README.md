@@ -1,3 +1,3 @@
 - 👋 Hi, I’m omar mahmoud 
-- 👀 I’m back end developer
+- 👀 I’m back end php developer
 - 🌱 I’m currently learning laravel
