@@ -88,9 +88,22 @@ Charity & donations platform — **Laravel · MySQL**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx,git,github" alt="Cloud and DevOps" />
 
-**APIs & Auth** — REST · JWT / refresh tokens · OAuth · Sanctum · 2FA / OTP · rate limiting · input validation
-**Payments** — Stripe · PayPal · WooCommerce · Mailgun — subscriptions, refunds, idempotent webhooks
-**Practices** — automated testing · code review · OOP/OOD · multi-tenant architecture · queues & background jobs
+---
+
+## 🧠 Skills
+
+| Area | Skills |
+|---|---|
+| 💻 **Languages** | TypeScript · JavaScript (Node.js) · PHP · SQL · Java · C · C# · HTML · CSS |
+| 🧱 **Frameworks & ORMs** | NestJS · Express · Laravel · Prisma · Eloquent |
+| 🗄️ **Data** | PostgreSQL · MySQL · MongoDB · Redis · schema design · indexing · migrations · read-optimized search services |
+| 🔌 **APIs** | REST API design · JSON · standardized response & error contracts · rate limiting · input validation · pagination & filtering |
+| 🔐 **Auth & Security** | JWT / refresh tokens · OAuth · Laravel Sanctum · 2FA (Google Authenticator) / email OTP · session management · RBAC · PII encryption at rest · audit logging · server & firewall hardening |
+| 💳 **Payments** | Stripe · PayPal · WooCommerce · Mailgun · subscriptions & recurring billing · refunds · signature-verified, idempotent webhooks · fraud scoring |
+| ☁️ **Cloud** | **AWS** — S3 (CLI, Transfer Acceleration), CloudFront, Rekognition, IAM, Lambda, API Gateway, DynamoDB, Cognito, WAF · **Azure** — Blob Storage, Cosmos DB |
+| ⚙️ **Infrastructure & DevOps** | Docker · CI/CD · Git · Linux · Nginx · DNS · VPS & server management · queues & background jobs · FFmpeg media pipelines |
+| 🏗️ **Architecture & Practices** | Multi-tenant SaaS (row-level isolation, host-based routing) · microservices · automated testing · code review · OOP / OOD · AI-assisted development (Claude & coding agents) |
+| 🗣️ **Spoken languages** | Arabic (native) · English (full professional) · Turkish (limited working) |
 
 ---
 
