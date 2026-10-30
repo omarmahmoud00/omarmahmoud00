@@ -2,6 +2,8 @@
 
 # Hi, I'm Omar Mahmoud 👋
 
+### Backend Software Engineer · ☁️ AWS Certified Solutions Architect – Associate
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Software+Engineer;Node.js+%7C+TypeScript+%7C+NestJS+%7C+Laravel;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Payments+%E2%80%A2+Multi-tenant+SaaS+%E2%80%A2+Cloud+Media" alt="Typing SVG" /></a>
 
 **I build and own production backends end to end — data model, REST APIs, auth, payments, infrastructure and deployment.**
@@ -17,9 +19,29 @@
 
 ---
 
+## 🏅 AWS Certified
+
+<table>
+  <tr>
+    <td width="140" align="center">
+      <a href="https://aws.amazon.com/verification">
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate badge" />
+      </a>
+    </td>
+    <td>
+      <b>AWS Certified Solutions Architect – Associate</b><br/>
+      Amazon Web Services · Issued Oct 2026 · Valid until Oct 2029<br/><br/>
+      Validated in designing secure, resilient, high-performing and cost-optimized architectures on AWS — the same skills I use daily with S3, CloudFront, Rekognition, IAM, Lambda, API Gateway, DynamoDB, Cognito and WAF.<br/><br/>
+      🔎 Validation no. <code>4a7cf178f52c44538841ed54388f46dd</code> · <a href="https://aws.amazon.com/verification">Verify on AWS</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧑‍💻 About me
 
-Backend engineer with **2+ years** shipping production systems in **Node.js / TypeScript (NestJS, Prisma, PostgreSQL)** and **PHP / Laravel (MySQL, MongoDB)**.
+**AWS Certified Solutions Architect** and backend engineer with **2+ years** shipping production systems in **Node.js / TypeScript (NestJS, Prisma, PostgreSQL)** and **PHP / Laravel (MySQL, MongoDB)**.
 I've built the multi-tenant core of a fintech donations SaaS, a cloud media archive serving **500,000 photos** and thousands of videos, and a search service with **50% lower latency**.
 
 What I'm good at:
@@ -123,7 +145,7 @@ Charity & donations platform — **Laravel · MySQL**
 
 ## 🎓 Education & certification
 
-- 🏅 **AWS Certified Solutions Architect – Associate** — Amazon Web Services (2026 – 2029) · validation no. `4a7cf178f52c44538841ed54388f46dd` · [verify](https://aws.amazon.com/verification)
+- 🏅 **AWS Certified Solutions Architect – Associate** — Amazon Web Services (Oct 2026 – Oct 2029) · validation no. `4a7cf178f52c44538841ed54388f46dd` · [verify](https://aws.amazon.com/verification)
 - 🎓 **B.Sc. Computer Engineering** — Karabük University, Türkiye
 
 ---
