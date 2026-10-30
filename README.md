@@ -11,7 +11,6 @@
 📍 Muscat, Oman (GMT+4) · 🌍 Open to remote & relocation · 🗣️ Arabic · English · Turkish
 
 <a href="https://www.linkedin.com/in/omarmahmoud00"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:omar.a.abuyoussef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/omarmahmoud00"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://aws.amazon.com/verification"><img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/></a>
 
@@ -164,6 +163,6 @@ Charity & donations platform — **Laravel · MySQL**
 ### 🤝 Let's work together
 
 I'm open to **backend / software engineering roles** — remote or relocation.
-The fastest way to reach me is [**email**](mailto:omar.a.abuyoussef@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/omarmahmoud00).
+The fastest way to reach me is on [**LinkedIn**](https://www.linkedin.com/in/omarmahmoud00).
 
 </div>
