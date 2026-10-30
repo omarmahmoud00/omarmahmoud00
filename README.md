@@ -143,9 +143,8 @@ Charity & donations platform — **Laravel · MySQL**
 
 ---
 
-## 🎓 Education & certification
+## 🎓 Education
 
-- 🏅 **AWS Certified Solutions Architect – Associate** — Amazon Web Services (Oct 2026 – Oct 2029) · validation no. `4a7cf178f52c44538841ed54388f46dd` · [verify](https://aws.amazon.com/verification)
 - 🎓 **B.Sc. Computer Engineering** — Karabük University, Türkiye
 
 ---
