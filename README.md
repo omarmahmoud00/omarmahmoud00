@@ -14,23 +14,6 @@
 
 ---
 
-## 🏅 AWS Certified
-
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://aws.amazon.com/verification">
-        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" alt="AWS Certified Solutions Architect – Associate badge" />
-      </a>
-    </td>
-    <td>
-      🔎 Validation no. <code>4a7cf178f52c44538841ed54388f46dd</code> · <a href="https://aws.amazon.com/verification">Verify on AWS</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,java,c,cs,html,css" alt="Languages" /> <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,prisma" alt="Frameworks" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" /> <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx,git,github" alt="Cloud and DevOps" />
@@ -50,12 +33,6 @@
 | ☁️ **Cloud** | **AWS** — S3 (CLI, Transfer Acceleration), CloudFront, Rekognition, IAM, Lambda, API Gateway, DynamoDB, Cognito, WAF · **Azure** — Blob Storage, Cosmos DB |
 | ⚙️ **Infrastructure & DevOps** | Docker · CI/CD · Git · Linux · Nginx · DNS · VPS & server management · queues & background jobs · FFmpeg media pipelines |
 | 🏗️ **Architecture & Practices** | Multi-tenant SaaS (row-level isolation, host-based routing) · microservices · automated testing · code review · OOP / OOD · AI-assisted development (Claude & coding agents) |
-
----
-
-## 🎓 Education
-
-- 🎓 **B.Sc. Computer Engineering** — Karabük University, Türkiye
 
 ---
 
