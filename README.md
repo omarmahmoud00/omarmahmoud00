@@ -33,13 +33,6 @@
 
 ---
 
-## 🧑‍💻 About me
-
-**AWS Certified Solutions Architect** and backend engineer with **2+ years** shipping production systems in **Node.js / TypeScript (NestJS, Prisma, PostgreSQL)** and **PHP / Laravel (MySQL, MongoDB)**.
-I've built the multi-tenant core of a fintech donations SaaS, a cloud media archive serving **500,000 photos** and thousands of videos, and a search service with **50% lower latency**.
-
----
-
 ## 🛠️ Tech stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,java,c,cs,html,css" alt="Languages" /> <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,prisma" alt="Frameworks" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" /> <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx,git,github" alt="Cloud and DevOps" />
