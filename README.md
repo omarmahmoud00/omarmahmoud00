@@ -45,21 +45,7 @@ I've built the multi-tenant core of a fintech donations SaaS, a cloud media arch
 
 ## 🛠️ Tech stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,java,c,cs,html,css" alt="Languages" />
-
-**Frameworks & ORMs** — NestJS · Express · Laravel · Prisma · Eloquent
-
-<img src="https://skillicons.dev/icons?i=nestjs,express,laravel,prisma" alt="Frameworks" />
-
-**Data**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx,git,github" alt="Cloud and DevOps" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,java,c,cs,html,css" alt="Languages" /> <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,prisma" alt="Frameworks" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" /> <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx,git,github" alt="Cloud and DevOps" />
 
 ---
 
