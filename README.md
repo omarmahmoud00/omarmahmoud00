@@ -41,26 +41,6 @@
 **AWS Certified Solutions Architect** and backend engineer with **2+ years** shipping production systems in **Node.js / TypeScript (NestJS, Prisma, PostgreSQL)** and **PHP / Laravel (MySQL, MongoDB)**.
 I've built the multi-tenant core of a fintech donations SaaS, a cloud media archive serving **500,000 photos** and thousands of videos, and a search service with **50% lower latency**.
 
-What I'm good at:
-
-- 🔌 **API design** — clean REST contracts, consistent errors, versioning, validation
-- 💳 **Payments** — Stripe & PayPal subscriptions, refunds, **idempotent, signature-verified webhooks**
-- 🏢 **Multi-tenant SaaS** — row-level isolation, host-based routing, zero cross-tenant leakage
-- 🔐 **Security hardening** — JWT/refresh tokens, 2FA/OTP, RBAC, PII encryption, audit trails, locked-down servers
-- ☁️ **Cloud & ops** — AWS (S3, CloudFront, Rekognition, IAM), Azure Blob, Docker, CI/CD, Linux/Nginx
-
----
-
-## 📈 Impact in numbers
-
-<div align="center">
-
-| 💰 **$800K+** | 👥 **50,000+** | 🖼️ **500,000** | ⚡ **−50%** | 📦 **5.5 TB** |
-|:---:|:---:|:---:|:---:|:---:|
-| donations processed on a platform I built | donors served | photos delivered worldwide via S3 + CloudFront | search query latency | media migrated to S3 |
-
-</div>
-
 ---
 
 ## 🛠️ Tech stack
