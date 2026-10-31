@@ -63,32 +63,6 @@ What I'm good at:
 
 ---
 
-## 💼 Experience
-
-**Software Engineer — Sortera LLC** · *Mar 2025 – Present*
-Arabic historical video & photo archive — two Laravel services (MySQL transactional + MongoDB search microservice)
-- Cut search latency **50%** with a read-optimized MongoDB search service that keeps heavy reads off the write path
-- Serve **500K photos** and thousands of videos via multi-region **S3 + CloudFront**; leading the migration to **Azure Blob Storage**
-- Built face-based photo filtering across the full library with **AWS Rekognition** and background jobs
-- Queued **FFmpeg** pipeline for transcoding, clipping and thumbnails, plus resumable chunked uploads
-- Sanctum auth, **2FA**, RBAC and audit logging; semantic search over clips via an AI chatbot with transcript indexing; CI/CD with automated tests
-
-**Backend Developer — FlowX** · *Oct 2025 – May 2026*
-Multi-tenant fundraising fintech SaaS — **NestJS · TypeScript · Prisma · PostgreSQL**
-- Built the **multi-tenant core**: row-level isolation per organization with host-based routing
-- Shipped refunds, subscription billing and a WooCommerce checkout; standardized API response & error contracts
-- Fixed critical security defects (leaked API keys, non-expiring JWTs) and hardened the production Docker deployment
-
-**Backend Developer — FrameUp** · *Jun 2024 – Aug 2025*
-Charity & donations platform — **Laravel · MySQL**
-- Launched a platform that processed **$800K+ from 50,000+ donors** and doubled daily donation volume
-- Shipped a campaign-recommendation feature that lifted donations **20%**
-- **Stripe & PayPal** one-time + recurring giving with idempotent webhooks — provider retries never create duplicates
-- PII encryption at rest, scoped RBAC, single-active-session rule, full audit trail, hardened VPS
-- Moved CSV exports and bulk email to queued jobs processing ~1,000-row chunks
-
----
-
 ## 🛠️ Tech stack
 
 **Languages**
@@ -123,20 +97,6 @@ Charity & donations platform — **Laravel · MySQL**
 | ⚙️ **Infrastructure & DevOps** | Docker · CI/CD · Git · Linux · Nginx · DNS · VPS & server management · queues & background jobs · FFmpeg media pipelines |
 | 🏗️ **Architecture & Practices** | Multi-tenant SaaS (row-level isolation, host-based routing) · microservices · automated testing · code review · OOP / OOD · AI-assisted development (Claude & coding agents) |
 | 🗣️ **Spoken languages** | Arabic (native) · English (full professional) · Turkish (limited working) |
-
----
-
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**serverless-rest-api-cognito-waf**](https://github.com/omarmahmoud00/serverless-rest-api-cognito-waf) | Secure, globally delivered serverless REST API reference architecture — Cognito OAuth2 + PKCE, scoped authorizers, WAF at edge & region, single-table DynamoDB, X-Ray tracing, cost model | AWS · Lambda · API Gateway · DynamoDB · CloudFront · SAM |
-| [**laravel-paymentGateways**](https://github.com/omarmahmoud00/laravel-paymentGateways) | One API to initiate and confirm payments across 6 gateways (Stripe, PayPal, Mollie, Paystack, Instamojo, SSLCommerz) | Laravel · PHP |
-| [**senior-project-**](https://github.com/omarmahmoud00/senior-project-) | Multi-industry booking engine exposed as RESTful APIs (transport, hospitality, events, services) | Laravel · MySQL · Tailwind |
-| [**Restful-Api-php**](https://github.com/omarmahmoud00/Restful-Api-php) | RESTful API built in plain PHP | PHP · MySQL |
-| [**gallery-management-system**](https://github.com/omarmahmoud00/gallery-management-system) | Gallery admin with accounts, uploads, threaded comments, tags and a follow system | PHP · MySQL · JS |
-| [**School-Management-System**](https://github.com/omarmahmoud00/School-Management-System) | File-based system for students, staff and managers — GPA and salary tracking | Java |
-| [**DSA-Problem-Solving**](https://github.com/omarmahmoud00/DSA-Problem-Solving) | My LeetCode & Codeforces solutions | PHP · Java · JS |
 
 ---
 
