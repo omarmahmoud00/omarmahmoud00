@@ -26,9 +26,6 @@
       </a>
     </td>
     <td>
-      <b>AWS Certified Solutions Architect – Associate</b><br/>
-      Amazon Web Services · Issued Oct 2026 · Valid until Oct 2029<br/><br/>
-      Validated in designing secure, resilient, high-performing and cost-optimized architectures on AWS — the same skills I use daily with S3, CloudFront, Rekognition, IAM, Lambda, API Gateway, DynamoDB, Cognito and WAF.<br/><br/>
       🔎 Validation no. <code>4a7cf178f52c44538841ed54388f46dd</code> · <a href="https://aws.amazon.com/verification">Verify on AWS</a>
     </td>
   </tr>
