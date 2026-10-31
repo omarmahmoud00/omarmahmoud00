@@ -8,8 +8,6 @@
 
 **I build and own production backends end to end — data model, REST APIs, auth, payments, infrastructure and deployment.**
 
-📍 Muscat, Oman (GMT+4) · 🌍 Open to remote & relocation · 🗣️ Arabic · English · Turkish
-
 <a href="https://www.linkedin.com/in/omarmahmoud00"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
@@ -52,7 +50,6 @@
 | ☁️ **Cloud** | **AWS** — S3 (CLI, Transfer Acceleration), CloudFront, Rekognition, IAM, Lambda, API Gateway, DynamoDB, Cognito, WAF · **Azure** — Blob Storage, Cosmos DB |
 | ⚙️ **Infrastructure & DevOps** | Docker · CI/CD · Git · Linux · Nginx · DNS · VPS & server management · queues & background jobs · FFmpeg media pipelines |
 | 🏗️ **Architecture & Practices** | Multi-tenant SaaS (row-level isolation, host-based routing) · microservices · automated testing · code review · OOP / OOD · AI-assisted development (Claude & coding agents) |
-| 🗣️ **Spoken languages** | Arabic (native) · English (full professional) · Turkish (limited working) |
 
 ---
 
